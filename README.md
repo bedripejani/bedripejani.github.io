@@ -1,6 +1,3 @@
-"# varsity" 
-"# varsity" 
-"# varsity" 
-"# varsity" 
-"# varsity" 
-"# varsity" 
+###
+Website for school
+###
