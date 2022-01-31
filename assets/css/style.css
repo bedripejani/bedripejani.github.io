@@ -1011,7 +1011,7 @@ img {
 ====================*/
 #mu-testimonial {
   background-attachment: fixed;
-  background-image: url("../img/thumb.jpg");
+  background-image: url("../img/slider/22.jpg");
   background-position: center center;
   background-size: cover;
   display: inline;
@@ -2173,8 +2173,7 @@ img {
   margin-top: 10px;
 }
 #mu-contact .mu-contact-area .mu-contact-content .mu-contact-right {
-  display: inline;
-  float: left;
+  float: center;
   width: 100%;
 }
 #mu-contact .mu-contact-area .mu-contact-content .mu-contact-right iframe {
